@@ -30,7 +30,7 @@ public class Main {
 
                 System.out.println("Thank you for joining JavaGram!");
                 System.out.println("\nHere is the information you entered:");
-                System.out.println("\tFirst Name: "+first);
+                System.out.println("\nFirst Name: "+first);
                 System.out.println("\tLast Name: "+last);
                 System.out.println("\tAge: "+age);
                 System.out.println("\tUsername: "+userName);
