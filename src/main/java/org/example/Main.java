@@ -13,11 +13,11 @@ public class Main {
                 System.out.println("Welcome to JavaGram! Let's sign you up.");
 
                 System.out.println("What is your first name?");
-
+                String first = scan.nextLine();
                 System.out.println("What is your last name?");
-
+                String last = scan.nextLine();
                 System.out.println("How old are you?");
-
+                int age = scan.nextInt();
                 System.out.println("Make a username");
                 // If you experience trouble picking up the username, please carefully read the instructions on Learn the Part.
 
